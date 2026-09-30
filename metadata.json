@@ -1,0 +1,6 @@
+{
+  "name": "Android Auto Emulador",
+  "description": "Emulador e Central Multimídia Android Auto com suporte a USB, Wi-Fi sem fio, modo Coolwalk, Google Maps, Spotify e Google Assistente.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
