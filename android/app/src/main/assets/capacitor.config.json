@@ -1,0 +1,8 @@
+{
+	"appId": "com.headunit.revived",
+	"appName": "Headunit Revived",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	}
+}

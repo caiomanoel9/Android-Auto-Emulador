@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Headunit Revived</string>
+    <string name="title_activity_main">Headunit Revived</string>
+    <string name="package_name">com.headunit.revived</string>
+    <string name="custom_url_scheme">com.headunit.revived</string>
+</resources>
